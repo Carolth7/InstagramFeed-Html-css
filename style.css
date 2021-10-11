@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(128, 128, 128, 0.37);
+    margin: 0;
+}
+header {
+    background: white;
+    width: 100rem;
+}
+
+div .post  {
+    background-color: white;
+    
+}
+
+div .post  img {
+    width: 100%;
+}
+
+.container  {        
+    width: 600px;
+    margin: auto;
+}
+
+.heading {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+.titleheading {
+    width: 80%;
+   
+   
+}
+.date { 
+    width: 20%;
+    text-align: right; 
+    color: gray;
+   padding-top: 5px;
+}
+
+
+
+
+.footer {
+    padding: 5px;
+}
